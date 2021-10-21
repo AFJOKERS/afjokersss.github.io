@@ -1,6 +1,6 @@
 .home-menu {
     padding: 0.5em;
-    text-align: start;
+    text-align: match-parent;
     box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
 }
 .home-menu {
