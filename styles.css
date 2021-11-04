@@ -5,7 +5,7 @@
 }
 
 body {
-	background-image: url("canvas_background.jpg");
+	background-color: black;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
