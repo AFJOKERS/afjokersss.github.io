@@ -85,10 +85,3 @@ a.link {
 a.link:hover {
     color: rgba(255, 255, 255, 0.65);
 }
-
-.image main {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-    width: 150px;
-}
