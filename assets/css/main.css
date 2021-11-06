@@ -750,7 +750,7 @@ input[type="radio"] + label:before {
     opacity: 0.5;
     position: absolute;
     top: 0;
-    width: 100%;
+    width: 50%;
 }
 
 .image img {
@@ -797,7 +797,7 @@ input[type="radio"] + label:before {
 }
 
 .image.main img {
-    width: 100%;
+    width: 50%;
 }
 
 @media screen and (max-width: 736px) {
