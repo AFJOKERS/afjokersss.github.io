@@ -1,2 +1,2 @@
-# File Are Protected By Lisence.
+# File Are Protected By License.
 - do not distrub
